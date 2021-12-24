@@ -1,0 +1,13 @@
+__pycache__/
+
+data/
+
+results/
+
+.ipynb_checkpoints/
+
+.vscode/.ropeproject/
+
+cache/
+
+.DS_Store
